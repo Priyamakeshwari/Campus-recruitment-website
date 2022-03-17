@@ -20,7 +20,7 @@
     padding: 20px;
     padding-left: 50px;
     padding-right: 30px;
-    padding-top: 50px;
+    padding-top: 10px;
 }
 nav
 {
@@ -75,7 +75,7 @@ a
 .form-box
 {
     width:380px;
-	height:480px;
+	height:450px;
 	position:relative;
 	margin:2% auto;
 	background:rgba(0,0,0,0.3);
